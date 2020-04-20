@@ -50,6 +50,11 @@ module SoilPModule
 
       real     chelated_p (max_layer)   ! chelated P content for each layer (kg/ha)
 
+      !real     chelated_p (max_layer)   ! chelated P content for each layer (kg/ha)
+      
+      
+      
+      
       
       
      !##########################################################################################
